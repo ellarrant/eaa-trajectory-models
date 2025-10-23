@@ -1,7 +1,10 @@
 # eaa-trajectory-models
 [Wu clock](https://ellarrant.github.io/eaa-trajectory-models/Wu-clock.html)  
+[Wu clock sensitivity--n=219](https://ellarrant.github.io/eaa-trajectory-models/Wu-clock--sensitivity.html)  
 [Wu clock sensitivity--celltype and classmb](https://ellarrant.github.io/eaa-trajectory-models/Wu-celltype-classmb.html)  
 [Horvath clock](https://ellarrant.github.io/eaa-trajectory-models/Horvath-clock.html)  
+[Horvath clock sensitivity--n=219](https://ellarrant.github.io/eaa-trajectory-models/Horvath-clock--sensitivity.html)  
 [Horvath clock sensitivity--celltype and classmb](https://ellarrant.github.io/eaa-trajectory-models/Horvath-celltype-classmb.html)  
 [Skin & Blood clock](https://ellarrant.github.io/eaa-trajectory-models/SkinBlood-clock.html)  
+[Skin & Blood clock sensitivity--n=219](https://ellarrant.github.io/eaa-trajectory-models/SkinBlood-clock--sensitivity.html)  
 [Skin & Blood clock sensitivity--celltype and classmb](https://ellarrant.github.io/eaa-trajectory-models/SkinBlood-celltype-classmb.html)  
